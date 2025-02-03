@@ -4,7 +4,7 @@ Object classification/face recognition model, predicting with live webcam video 
 
 PROJECT DESCRIPTION: This project involves writing code to generate datasets from raw snapped photos, training multiple face recognition models, and integrating these models to make real-time predictions from a live PC webcam feed.
 
-In Phase 2 (private repository), all components are combined into a fully functional website for continuous security authentication. The system ensures that only authorized users can access the website, instantly denying access to any unauthorized faces.
+In Phase 2 (private repository), all components are combined into a fully functional website for continuous security authentication. The system ensures that only authorized users can access the website, instantly denying access to any unauthorized faces.(repository @ https://github.com/DaddysonT/Caspstone_project/tree/BOLA_OLATUNJI_CPS)
 
 
 DATE: DEC 2024
